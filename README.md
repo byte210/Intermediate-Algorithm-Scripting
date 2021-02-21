@@ -1,2 +1,2 @@
 # Intermediate-Algorithm-Scripting
-This repository contains solutions I've found for Intermediate Alghoritm Scripting course from FreeCodeCamp.org
+This repository contains my solutions for Intermediate Alghoritm Scripting course from FreeCodeCamp.org
